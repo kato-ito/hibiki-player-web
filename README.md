@@ -1,7 +1,7 @@
 # Hibiki Player 网页版（单文件）
 
 **⬇️ 直接下载：[`hibiki-player.html`](https://github.com/kato-ito/hibiki-player-web/releases/latest/download/hibiki-player.html)**
-—— 93 KB 单文件，双击用浏览器打开即用，不需要安装、不需要服务器、不联网也能播放本地音乐。
+—— 234 KB 单文件，双击用浏览器打开即用，不需要安装、不需要服务器、不联网也能播放本地音乐。
 
 本地音乐播放器网页版：**波形 · 频谱 · 声谱图 · 声场** 四种可视化，Apple Music 风格播放界面，
 歌词逐行高亮，歌单矩阵主界面 + 迷你播放条。歌单与设置只保存在浏览器本机（localStorage），
